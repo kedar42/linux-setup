@@ -20,4 +20,6 @@ paru --needed -Sy - < pkglist.txt || error "Failed to install aur packages"
 # todo add auto clone for dotfiles
 
 # add sddm activation
-#todo add copy config
+# todo add copy config
+# todo modify pacman config to allow ILoveCandy Color Verbose and Paraller Downloads
+# todo fix SDDM taking too long to close

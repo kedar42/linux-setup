@@ -16,6 +16,9 @@ foot
 fish
 ttf-nerd-fonts-symbols-2048-em
 ttf-joypixels
-visual-studio-code-bin
-hyprland
 sddm
+visual-studio-code-bin
+brave-bin
+hyprland-git
+waybar-hyprland-git
+rofi-lbonn-wayland-git
