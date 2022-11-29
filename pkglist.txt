@@ -1,11 +1,6 @@
 neovim
-zsh
-zsh-syntax-highlighting
-zsh-autosuggestions
-kitty
 exa
 bat
-starship
 ttf-fira-code
 thunderbird
 gnome-keyring
@@ -18,3 +13,6 @@ seahorse
 dunst
 swaybg
 foot
+fish
+ttf-nerd-fonts-symbols-2048-em
+ttf-joypixels
