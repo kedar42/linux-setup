@@ -1,3 +1,5 @@
+!!! Not Updated
+
 neovim
 exa
 bat
@@ -23,3 +25,9 @@ brave-bin
 hyprland-git
 waybar-hyprland-git
 rofi-lbonn-wayland-git
+mpd
+otf-font-awesome
+polkit-kde
+mako
+waybar
+swaybg
